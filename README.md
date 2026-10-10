@@ -4,7 +4,7 @@
 
 ## English
 
-Junior developer focused on web applications with React and ASP.NET Core. I enjoy building clear interfaces, handling application state and turning small assignments into complete, runnable projects.
+Junior developer building web and mobile applications. I enjoy shaping clear interfaces and turning ideas and coursework into complete, usable projects.
 
 ### Main skills
 
@@ -14,26 +14,34 @@ Junior developer focused on web applications with React and ASP.NET Core. I enjo
 
 ### Selected projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react) | Role-based service request management SPA with a mock REST API. | React, TanStack Query, Axios, Zod |
-| [Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms) | Fitness club website with a blog and content management area. | ASP.NET Core, EF Core, SQL Server |
-| [Ironworks: Idle Mine](https://github.com/ovchinnikovmatviy/ironworks-idle-mine) | Browser idle game with upgrades and automatic resource production. | React, Vite |
-| [Flowboard](https://github.com/ovchinnikovmatviy/flowboard-react-dnd) | Trello-style board with dynamic columns and drag and drop. | React, React DnD |
-| [Expense Tracker](https://github.com/ovchinnikovmatviy/expense-tracker-redux) | Expense tracker with category filters and a calculated total. | React, Redux Toolkit |
+| Project | Description |
+| --- | --- |
+| [Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw) | Personal iPhone cycling app for planning calm Warsaw rides and recording trips. |
+| [ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react) | Role-based service request management SPA with a mock REST API. |
+| [Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms) | Fitness club website with a blog and content management area. |
+| [Ironworks: Idle Mine](https://github.com/ovchinnikovmatviy/ironworks-idle-mine) | Browser idle game with upgrades and automatic resource production. |
+| [Flowboard](https://github.com/ovchinnikovmatviy/flowboard-react-dnd) | Trello-style board with dynamic columns and drag and drop. |
+| [Expense Tracker](https://github.com/ovchinnikovmatviy/expense-tracker-redux) | Expense tracker with category filters and a calculated total. |
 
-Every repository includes a short explanation of the project, the technologies used and local launch instructions in English and Russian.
+### Learning
+
+- AWS Academy Cloud Foundations coursework, including hands-on labs with AWS CloudFormation and EC2.
 
 ## Русский
 
-Начинающий разработчик, который делает веб-приложения на React и ASP.NET Core. Мне интересно создавать понятные интерфейсы, работать с состоянием приложения и доводить учебные работы до полноценных запускаемых проектов.
-
-### Основные навыки
-
-- **Frontend:** React, JavaScript, React Router, Redux Toolkit, TanStack Query, HTML и CSS.
-- **Backend:** C#, ASP.NET Core MVC, Entity Framework Core и SQL Server.
-- **Инструменты:** Git, GitHub, Vite, npm и Visual Studio.
+Начинающий разработчик, создаю веб- и мобильные приложения. Мне интересно продумывать понятные интерфейсы и доводить идеи и учебные проекты до готового результата.
 
 ### Избранные проекты
 
-В таблице выше собраны основные работы: сервис заявок, CMS для спортивного клуба, браузерная игра, доска задач и трекер расходов. В каждом репозитории есть описание проекта, технологии и инструкция запуска на английском и русском языках.
+| Проект | Описание |
+| --- | --- |
+| [Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw) | Личное приложение для iPhone: планирование спокойных велопоездок по Варшаве и запись поездок. |
+| [ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react) | Сервис заявок с ролями и демонстрационным REST API. |
+| [Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms) | Сайт фитнес-клуба с блогом и управлением контентом. |
+| [Ironworks: Idle Mine](https://github.com/ovchinnikovmatviy/ironworks-idle-mine) | Браузерная игра с улучшениями и автоматическим производством ресурсов. |
+| [Flowboard](https://github.com/ovchinnikovmatviy/flowboard-react-dnd) | Доска задач с колонками и перетаскиванием карточек. |
+| [Expense Tracker](https://github.com/ovchinnikovmatviy/expense-tracker-redux) | Учёт расходов с фильтрами по категориям и автоматическим подсчётом. |
+
+### Обучение
+
+- Учебные занятия AWS Academy Cloud Foundations, включая практические лабораторные работы с AWS CloudFormation и EC2.
