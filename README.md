@@ -16,7 +16,7 @@ Junior developer building web and mobile applications. I enjoy shaping clear int
 
 | Project | Description |
 | --- | --- |
-| [Quiet Loop](#quiet-loop) | Personal iPhone cycling app for planning calm Warsaw rides and recording trips. |
+| [Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw-showcase) | Personal iPhone cycling app for planning calm Warsaw rides and recording trips. |
 | [ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react) | Role-based service request management SPA with a mock REST API. |
 | [Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms) | Fitness club website with a blog and content management area. |
 | [Ironworks: Idle Mine](https://github.com/ovchinnikovmatviy/ironworks-idle-mine) | Browser idle game with upgrades and automatic resource production. |
@@ -47,7 +47,7 @@ Ride history and settings stay in the app's local database on the iPhone. Route 
 
 | Проект | Описание |
 | --- | --- |
-| [Quiet Loop](#quiet-loop-1) | Личное приложение для iPhone: планирование спокойных велопоездок по Варшаве и запись поездок. |
+| [Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw-showcase) | Личное приложение для iPhone: планирование спокойных велопоездок по Варшаве и запись поездок. |
 | [ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react) | Сервис заявок с ролями и демонстрационным REST API. |
 | [Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms) | Сайт фитнес-клуба с блогом и управлением контентом. |
 | [Ironworks: Idle Mine](https://github.com/ovchinnikovmatviy/ironworks-idle-mine) | Браузерная игра с улучшениями и автоматическим производством ресурсов. |
