@@ -45,29 +45,41 @@ Polish B2 · English A2 · Ukrainian native · Russian C2. Based in Warsaw, open
 
 ## Русский
 
-Студент первого курса информатики PJATK в Варшаве. Ищу первую работу или стажировку в разработке. Опыт получен в личных, учебных и совместных проектах; коммерческого опыта пока нет.
+Студент первого курса информатики PJATK в Варшаве. Ищу первую работу на junior-позиции или стажировку в разработке. Опыт получен в личных, учебных и совместных проектах; коммерческого опыта пока нет.
 
-### Навыки
+### Технические навыки
 
 - **Frontend:** React, JavaScript, HTML, CSS, React Router, Redux Toolkit, TanStack Query.
 - **Backend:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server.
 - **Инструменты и другое:** Git, GitHub, REST API, Axios, Vite, npm, Visual Studio; основы Python.
 
-### Проекты из CV
+### Избранные проекты
 
-- **[MyStat](https://github.com/ovchinnikovmatviy/ovchinnikovmatviy/tree/main/projects/mystat)** · **[Демо](https://mystat-concept.pages.dev/)**. Совместный с Никитой Попругой концепт студенческого портала IT STEP. Адаптивный интерфейс, три языка, светлая/тёмная темы и настраиваемая панель. IT STEP положительно оценили работу и сообщили, что планируют внедрить концепт. Данные демонстрационные, рабочего backend нет.
-- **[ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react)**. React-приложение для заявок: роли, защищённые маршруты, валидация форм, статусы и mock REST API.
-- **[Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms)**. Сайт и CMS фитнес-клуба на C#/ASP.NET Core MVC, EF Core и SQL Server.
-- **[Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw-showcase)**. Личное приложение для iOS на React Native, Expo и TypeScript: веломаршруты по Варшаве, запись GPS-поездок и локальная история.
+| Проект | Описание |
+| --- | --- |
+| [MyStat](https://github.com/ovchinnikovmatviy/ovchinnikovmatviy/tree/main/projects/mystat) · [Демо](https://mystat-concept.pages.dev/) | Совместный с Никитой Попругой концепт обновления студенческого портала IT STEP. Адаптивный интерфейс, три языка, светлая/тёмная темы и настраиваемая панель. IT STEP положительно оценили концепт и сообщили о планах его внедрения. Данные демонстрационные, рабочего backend нет. |
+| [ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react) | React-приложение для заявок с ролями клиента и оператора, защищёнными маршрутами, валидацией форм, изменением статусов и mock REST API. TanStack Query, Axios и Zod. |
+| [Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms) | Сайт и административная CMS фитнес-клуба на C#/ASP.NET Core MVC, EF Core и SQL Server: блог, поиск по категориям, модерация комментариев и публикация контента. |
+| [Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw-showcase) | Личное приложение для велопоездок по Варшаве на iOS, созданное с React Native, Expo и TypeScript: планирование маршрутов, запись GPS-поездок и локальная история. |
 
-В Quiet Loop AI помогал со сложными частями Expo/TypeScript и дизайном интерфейса. Я проверял функции, искал баги и проверял исправления. Исходники закрыты, по ссылке доступно публичное описание.
+### Моя роль в Quiet Loop
 
-### Обучение
+AI помогал со сложным кодом Expo/TypeScript и дизайном интерфейса. Мой вклад включал ручную проверку функций, поиск багов и проверку исправлений. Исходный репозиторий закрыт; по ссылке доступно публичное описание проекта.
 
-- **PJATK**, Варшава, информатика: 2026-2030, ожидаемое окончание.
-- **IT STEP Academy**, программирование и IT: 2019-2027, ожидаемое окончание.
-- **AWS Academy Cloud Foundations**: учебный курс и лабораторные работы с EC2 и CloudFormation.
+### Образование и курсы
 
-Польский B2, английский A2, украинский родной, русский C2. Живу в Варшаве, рассматриваю местные и удалённые варианты. Дату начала и часы согласую индивидуально.
+- **Польско-японская академия информационных технологий (PJATK)** - Варшава, информатика, 2026-2030 (ожидаемое окончание).
+- **IT STEP Academy** - программирование и IT-технологии, 2019-2027 (ожидаемое окончание).
+- **AWS Academy Cloud Foundations** - учебный курс и практические лабораторные работы с Amazon EC2 и AWS CloudFormation.
 
-Контакты: [email](mailto:ovchinnikovmatviy@gmail.com), [LinkedIn](https://www.linkedin.com/in/matvii-ovchinnikov-869a51430/), [Telegram @matviyov](https://t.me/matviyov), PL +48 884 798 470, UA +380 98 730 4551.
+### Языки и местоположение
+
+Польский B2 · Английский A2 · Украинский родной · Русский C2. Живу в Варшаве, рассматриваю местные и удалённые варианты. Дата начала и рабочие часы согласуются индивидуально.
+
+### Контакты
+
+- [Email](mailto:ovchinnikovmatviy@gmail.com): ovchinnikovmatviy@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/matvii-ovchinnikov-869a51430/)
+- [Telegram: @matviyov](https://t.me/matviyov)
+- Польша: +48 884 798 470
+- Украина: +380 98 730 4551
