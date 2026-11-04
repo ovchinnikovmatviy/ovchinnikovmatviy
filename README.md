@@ -16,7 +16,7 @@ First-year Computer Science student at PJATK in Warsaw, looking for a first juni
 
 | Project | Description |
 | --- | --- |
-| [MyStat](https://github.com/ovchinnikovmatviy/mystatwebsite-clean) · [Demo](https://mystat-concept.pages.dev/) | Co-created an IT STEP student portal redesign concept with Nikita Popruga. Responsive UI, three languages, light/dark themes and a customizable dashboard. IT STEP positively received the concept and stated plans to implement it. Demo data; no live backend. |
+| [MyStat](https://github.com/ovchinnikovmatviy/ovchinnikovmatviy/tree/main/projects/mystat) · [Demo](https://mystat-concept.pages.dev/) | Co-created an IT STEP student portal redesign concept with Nikita Popruga. Responsive UI, three languages, light/dark themes and a customizable dashboard. IT STEP positively received the concept and stated plans to implement it. Demo data; no live backend. |
 | [ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react) | React service-request app with customer/operator roles, protected routes, validated forms, status updates and a mock REST API. TanStack Query, Axios and Zod. |
 | [Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms) | C#/ASP.NET Core MVC website and admin CMS with EF Core and SQL Server: blog, category search, moderated comments and content publishing. |
 | [Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw-showcase) | Personal iOS cycling app for Warsaw, built with React Native, Expo and TypeScript: route planning, GPS ride recording and local ride history. |
@@ -55,7 +55,7 @@ Polish B2 · English A2 · Ukrainian native · Russian C2. Based in Warsaw, open
 
 ### Проекты из CV
 
-- **[MyStat](https://github.com/ovchinnikovmatviy/mystatwebsite-clean)** · **[Демо](https://mystat-concept.pages.dev/)**. Совместный с Никитой Попругой концепт студенческого портала IT STEP. Адаптивный интерфейс, три языка, светлая/тёмная темы и настраиваемая панель. IT STEP положительно оценили работу и сообщили, что планируют внедрить концепт. Данные демонстрационные, рабочего backend нет.
+- **[MyStat](https://github.com/ovchinnikovmatviy/ovchinnikovmatviy/tree/main/projects/mystat)** · **[Демо](https://mystat-concept.pages.dev/)**. Совместный с Никитой Попругой концепт студенческого портала IT STEP. Адаптивный интерфейс, три языка, светлая/тёмная темы и настраиваемая панель. IT STEP положительно оценили работу и сообщили, что планируют внедрить концепт. Данные демонстрационные, рабочего backend нет.
 - **[ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react)**. React-приложение для заявок: роли, защищённые маршруты, валидация форм, статусы и mock REST API.
 - **[Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms)**. Сайт и CMS фитнес-клуба на C#/ASP.NET Core MVC, EF Core и SQL Server.
 - **[Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw-showcase)**. Личное приложение для iOS на React Native, Expo и TypeScript: веломаршруты по Варшаве, запись GPS-поездок и локальная история.
