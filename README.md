@@ -1,65 +1,73 @@
 # Matvii Ovchinnikov
 
-[English](#english) · [Русский](#русский)
+[English](#english) | [Русский](#русский)
 
 ## English
 
-Junior developer building web and mobile applications. I enjoy shaping clear interfaces and turning ideas and coursework into complete, usable projects.
+First-year Computer Science student at PJATK in Warsaw, looking for a first junior role or internship in software development. My experience comes from personal, educational and collaborative projects; I have no commercial work experience yet.
 
-### Main skills
+### Technical skills
 
-- **Frontend:** React, JavaScript, React Router, Redux Toolkit, TanStack Query, HTML and CSS.
-- **Backend:** C#, ASP.NET Core MVC, Entity Framework Core and SQL Server.
-- **Tools:** Git, GitHub, Vite, npm and Visual Studio.
+- **Frontend:** React, JavaScript, HTML, CSS, React Router, Redux Toolkit, TanStack Query.
+- **Backend:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server.
+- **Tools and other:** Git, GitHub, REST APIs, Axios, Vite, npm, Visual Studio; Python basics.
 
 ### Selected projects
 
 | Project | Description |
 | --- | --- |
-| [Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw-showcase) | Personal iPhone cycling app for planning calm Warsaw rides and recording trips. |
-| [ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react) | Role-based service request management SPA with a mock REST API. |
-| [Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms) | Fitness club website with a blog and content management area. |
-| [Ironworks: Idle Mine](https://github.com/ovchinnikovmatviy/ironworks-idle-mine) | Browser idle game with upgrades and automatic resource production. |
-| [Flowboard](https://github.com/ovchinnikovmatviy/flowboard-react-dnd) | Trello-style board with dynamic columns and drag and drop. |
-| [Expense Tracker](https://github.com/ovchinnikovmatviy/expense-tracker-redux) | Expense tracker with category filters and a calculated total. |
+| [MyStat](https://github.com/ovchinnikovmatviy/mystatwebsite-clean) · [Demo](https://mystat-concept.pages.dev/) | Co-created an IT STEP student portal redesign concept with Nikita Popruga. Responsive UI, three languages, light/dark themes and a customizable dashboard. IT STEP positively received the concept and stated plans to implement it. Demo data; no live backend. |
+| [ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react) | React service-request app with customer/operator roles, protected routes, validated forms, status updates and a mock REST API. TanStack Query, Axios and Zod. |
+| [Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms) | C#/ASP.NET Core MVC website and admin CMS with EF Core and SQL Server: blog, category search, moderated comments and content publishing. |
+| [Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw-showcase) | Personal iOS cycling app for Warsaw, built with React Native, Expo and TypeScript: route planning, GPS ride recording and local ride history. |
 
-### Quiet Loop
+### My role in Quiet Loop
 
-Quiet Loop is a personal iPhone app for planning relaxed cycling routes around Warsaw and recording rides. It includes destination and distance selection, cycling route planning, on-screen navigation guidance, GPS ride recording, ride history, local weather, and Russian, Polish, and English interface options.
+AI helped with complex Expo/TypeScript code and UI design. My contribution included manual functional checks, finding bugs and verifying fixes. The source repository is private; the linked showcase is a public overview.
 
-Ride history and settings stay in the app's local database on the iPhone. Route and weather requests send the location data needed by their services. The source repository is private, so this profile section is the public project overview.
+### Education and training
 
-### Learning
+- **Polish-Japanese Academy of Information Technology (PJATK)** - Warsaw, Computer Science, 2026-2030 (expected).
+- **IT STEP Academy** - Programming and IT technologies, 2019-2027 (expected).
+- **AWS Academy Cloud Foundations** - coursework and hands-on labs with Amazon EC2 and AWS CloudFormation.
 
-- AWS Academy Cloud Foundations coursework, including hands-on labs with AWS CloudFormation and EC2.
+### Languages and location
+
+Polish B2 · English A2 · Ukrainian native · Russian C2. Based in Warsaw, open to local and remote opportunities. Start date and working hours to be agreed.
+
+### Contact
+
+- [Email](mailto:ovchinnikovmatviy@gmail.com): ovchinnikovmatviy@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/matvii-ovchinnikov-869a51430/)
+- [Telegram: @matviyov](https://t.me/matviyov)
+- Poland: +48 884 798 470
+- Ukraine: +380 98 730 4551
 
 ## Русский
 
-Начинающий разработчик, создаю веб- и мобильные приложения. Мне интересно продумывать понятные интерфейсы и доводить идеи и учебные проекты до готового результата.
+Студент первого курса информатики PJATK в Варшаве. Ищу первую работу или стажировку в разработке. Опыт получен в личных, учебных и совместных проектах; коммерческого опыта пока нет.
 
-### Основные навыки
+### Навыки
 
-- **Frontend:** React, JavaScript, React Router, Redux Toolkit, TanStack Query, HTML и CSS.
-- **Backend:** C#, ASP.NET Core MVC, Entity Framework Core и SQL Server.
-- **Инструменты:** Git, GitHub, Vite, npm и Visual Studio.
+- **Frontend:** React, JavaScript, HTML, CSS, React Router, Redux Toolkit, TanStack Query.
+- **Backend:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server.
+- **Инструменты и другое:** Git, GitHub, REST API, Axios, Vite, npm, Visual Studio; основы Python.
 
-### Избранные проекты
+### Проекты из CV
 
-| Проект | Описание |
-| --- | --- |
-| [Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw-showcase) | Личное приложение для iPhone: планирование спокойных велопоездок по Варшаве и запись поездок. |
-| [ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react) | Сервис заявок с ролями и демонстрационным REST API. |
-| [Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms) | Сайт фитнес-клуба с блогом и управлением контентом. |
-| [Ironworks: Idle Mine](https://github.com/ovchinnikovmatviy/ironworks-idle-mine) | Браузерная игра с улучшениями и автоматическим производством ресурсов. |
-| [Flowboard](https://github.com/ovchinnikovmatviy/flowboard-react-dnd) | Доска задач с колонками и перетаскиванием карточек. |
-| [Expense Tracker](https://github.com/ovchinnikovmatviy/expense-tracker-redux) | Учёт расходов с фильтрами по категориям и автоматическим подсчётом. |
+- **[MyStat](https://github.com/ovchinnikovmatviy/mystatwebsite-clean)** · **[Демо](https://mystat-concept.pages.dev/)**. Совместный с Никитой Попругой концепт студенческого портала IT STEP. Адаптивный интерфейс, три языка, светлая/тёмная темы и настраиваемая панель. IT STEP положительно оценили работу и сообщили, что планируют внедрить концепт. Данные демонстрационные, рабочего backend нет.
+- **[ServiceDesk](https://github.com/ovchinnikovmatviy/service-desk-react)**. React-приложение для заявок: роли, защищённые маршруты, валидация форм, статусы и mock REST API.
+- **[Sports Gym CMS](https://github.com/ovchinnikovmatviy/sports-gym-cms)**. Сайт и CMS фитнес-клуба на C#/ASP.NET Core MVC, EF Core и SQL Server.
+- **[Quiet Loop](https://github.com/ovchinnikovmatviy/quiet-loop-warsaw-showcase)**. Личное приложение для iOS на React Native, Expo и TypeScript: веломаршруты по Варшаве, запись GPS-поездок и локальная история.
 
-### Quiet Loop
-
-Quiet Loop - личное приложение для iPhone, которое помогает планировать спокойные велопоездки по Варшаве и записывать поездки. В нём есть выбор места и расстояния, построение веломаршрута, экранные подсказки, запись GPS-трека, история поездок, местная погода и интерфейс на русском, польском и английском.
-
-История поездок и настройки хранятся в локальной базе приложения на iPhone. Запросы маршрутов и погоды передают сервисам необходимые данные о местоположении. Исходный репозиторий закрыт, поэтому это описание проекта доступно публично прямо в профиле.
+В Quiet Loop AI помогал со сложными частями Expo/TypeScript и дизайном интерфейса. Я проверял функции, искал баги и проверял исправления. Исходники закрыты, по ссылке доступно публичное описание.
 
 ### Обучение
 
-- Учебные занятия AWS Academy Cloud Foundations, включая практические лабораторные работы с AWS CloudFormation и EC2.
+- **PJATK**, Варшава, информатика: 2026-2030, ожидаемое окончание.
+- **IT STEP Academy**, программирование и IT: 2019-2027, ожидаемое окончание.
+- **AWS Academy Cloud Foundations**: учебный курс и лабораторные работы с EC2 и CloudFormation.
+
+Польский B2, английский A2, украинский родной, русский C2. Живу в Варшаве, рассматриваю местные и удалённые варианты. Дату начала и часы согласую индивидуально.
+
+Контакты: [email](mailto:ovchinnikovmatviy@gmail.com), [LinkedIn](https://www.linkedin.com/in/matvii-ovchinnikov-869a51430/), [Telegram @matviyov](https://t.me/matviyov), PL +48 884 798 470, UA +380 98 730 4551.
